@@ -1,12 +1,15 @@
-### Olá, tudo em paz contigo? 👋
-Espero que sim 😄
+### Como que vocês estão? 😜
+Espero que esteja tudo bem 😄
 
-👋 Eai Novato  <img src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
+👋 Eai pessoal! Esse aqui é o tanto que já me visitaram -  <img src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
 
 Meu nome é Kauã do Vale,
 
-Sou aluno do IFCE | Desenvolvedor Front-End e em desenvolvimento no Back-End | SQL |  JavaScript | Python |
-
+Sou aluno do IFCE |
+💼 Desenvolvedor Front-End e em desenvolvimento no Back-End 
+📕 Aprendendo atualmente as linguagens > | SQL |  JavaScript | Python |
+🔭 Estou atualmente envolvido em um sistema que procura ajudar crianças que possuam a condição de autismo, na inclusão do seu meio social 
+💬 Se quiserem falar comigo, entrem em contato comigo pelo twitter
 ![DevlTz's github stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
 [![DevlTz Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
