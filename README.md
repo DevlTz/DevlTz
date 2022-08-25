@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá, tudo em paz contigo? 👋
+Espero que sim 😄
+
+👋 Eai Novato :: Visitor's Count
+
+Meu nome é Kauã do Vale,
+
+Sou aluno do IFCE | Desenvolvedor Front-End e em desenvolvimento no Back-End | SQL |  JavaScript | Python |
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?DevlTz=karanalpe&show_icons=true)
 
 <!--
 **DevlTz/DevlTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
