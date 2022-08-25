@@ -2,7 +2,6 @@
 Espero que sim 😄
 
 👋 Eai Novato  <img src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
-:: Visitor's Count
 
 Meu nome é Kauã do Vale,
 
