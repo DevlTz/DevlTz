@@ -10,6 +10,7 @@ Sou aluno do IFCE |
 📕 Aprendendo atualmente as linguagens > | SQL |  JavaScript | Python |
 🔭 Estou atualmente envolvido em um sistema que procura ajudar crianças que possuam a condição de autismo, na inclusão do seu meio social 
 💬 Se quiserem falar comigo, entrem em contato comigo pelo twitter
+
 ![DevlTz's github stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
 [![DevlTz Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
