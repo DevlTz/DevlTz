@@ -8,6 +8,7 @@ Meu nome é Kauã do Vale,
 Sou aluno do IFCE | Desenvolvedor Front-End e em desenvolvimento no Back-End | SQL |  JavaScript | Python |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&count_private=true)
 
 <!--
 **DevlTz/DevlTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
