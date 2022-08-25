@@ -7,9 +7,6 @@ Meu nome é Kauã do Vale,
 
 Sou aluno do IFCE | Desenvolvedor Front-End e em desenvolvimento no Back-End | SQL |  JavaScript | Python |
 
-Meu nome é Thiago Felippe,
-sou professor efetivo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Desenvolvedor Fullstack | Java | Spring | Webflux | Kafka | SQL | Mongo | JavaScript | Vue.js | Python | PWA
-
 ![DevlTz's github stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=dark)
 
 
