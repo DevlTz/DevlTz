@@ -7,8 +7,8 @@ Meu nome é Kauã do Vale,
 
 Sou aluno do IFCE | Desenvolvedor Front-End e em desenvolvimento no Back-End | SQL |  JavaScript | Python |
 
-![DevlTz's github stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=dark)
-![DevlTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true)
+![DevlTz's github stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
+
 
 <!--
 **DevlTz/DevlTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
