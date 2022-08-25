@@ -1,13 +1,17 @@
 ### Olá, tudo em paz contigo? 👋
 Espero que sim 😄
 
-👋 Eai Novato :: Visitor's Count
+👋 Eai Novato  <img src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
+:: Visitor's Count
 
 Meu nome é Kauã do Vale,
 
 Sou aluno do IFCE | Desenvolvedor Front-End e em desenvolvimento no Back-End | SQL |  JavaScript | Python |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true)
+Meu nome é Thiago Felippe,
+sou professor efetivo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Desenvolvedor Fullstack | Java | Spring | Webflux | Kafka | SQL | Mongo | JavaScript | Vue.js | Python | PWA
+
+![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&count_private=true)
 
 <!--
