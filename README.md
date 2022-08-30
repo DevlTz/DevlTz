@@ -18,7 +18,7 @@
 
 ![DevlTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&theme=dracula)
-https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **DevlTz/DevlTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
