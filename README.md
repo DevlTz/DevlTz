@@ -3,7 +3,7 @@
 ▷ Espero que esteja tudo bem 😄
 
 👋 Eai pessoal! Esse aqui é o tanto que já me visitaram -
-
+<img src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
 
 🎭 Meu nome é Kauã do Vale, Sou aluno do IFCE
 
