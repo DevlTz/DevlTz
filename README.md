@@ -11,7 +11,7 @@
 
 📕 Aprendendo atualmente as linguagens > | SQL |  JavaScript | Python |
 
-🔭 Estou atualmente envolvido em um sistema que procura ajudar crianças que possuam a condição de autismo, na inclusão do seu meio social 
+🔭 Estou atualmente envolvido em um sistema que procura ajudar crianças com diagnosticadas com TEA (Transtorno do Espectro Autista), na inclusão do seu meio social.
 
 💬 Se quiserem falar comigo, entrem em contato comigo pelo twitter
 
