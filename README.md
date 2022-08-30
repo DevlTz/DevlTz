@@ -4,6 +4,8 @@
 
 👋 Eai pessoal! Esse aqui é o tanto que já me visitaram
 
+<img src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
+
 🎭 Meu nome é Kauã do Vale, Sou aluno do IFCE
 
 💼 Desenvolvedor Front-End e em desenvolvimento no Back-End 
@@ -14,8 +16,9 @@
 
 💬 Se quiserem falar comigo, entrem em contato comigo pelo twitter
 
-![DevlTz's github stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
-[![DevlTz Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&theme=dracula)
+https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DevlTz/DevlTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
