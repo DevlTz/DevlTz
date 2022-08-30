@@ -17,7 +17,7 @@
 💬 Se quiserem falar comigo, entrem em contato comigo pelo twitter
 
 ![DevlTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
-![DevlTz's Linguagens stats](https://github-readme-stats.vercel.app/api/top-langs/username=DevlTz&layout=compact&theme=dracula)
+![DevlTz's Linguagens stats][(https://github-readme-stats.vercel.app/api/top-langs/username=DevlTz&layout=compact&theme=dracula)]
 https://github.com/anuraghazra/github-readme-stats)
 
 <!--
