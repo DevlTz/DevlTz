@@ -2,7 +2,7 @@
 
 ▷ Espero que esteja tudo bem 😄
 
-👋 Eai pessoal! Esse aqui é o tanto que já me visitaram
+👋 Eai pessoal! Esse aqui é o tanto que já entraram no meu perfil :)
 
 <img src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
 
