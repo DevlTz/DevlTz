@@ -33,9 +33,9 @@
   <img align="center" alt="PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="GIFer" src="https://discord.com/channels/772845095811547148/772845096328364044/1017178265745629256">
-  
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/de5c00577e3bf92df13f13126b582f72.gif" height="150" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
+
 
 ##
 🕵🏾‍♂️ Esse aqui é o tanto que já entraram no meu perfil :)
