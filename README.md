@@ -33,5 +33,6 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&langs_count=8&theme=synthwave)(https://github.com/DevlTz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&langs_count=8&theme=synthwave)
+                                                                                     
 ______________________________________________________________________________________________________
