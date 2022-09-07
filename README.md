@@ -33,7 +33,7 @@
   <img align="center" alt="PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="rigth" alt="GIFer" src="https://discord.com/channels/772845095811547148/772845096328364044/1017176258989269063/hi.gif">
+  <img align="center" alt="GIFer" src="https://discord.com/channels/772845095811547148/772845096328364044/1017178265745629256">
   
 </div>
 
