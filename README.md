@@ -38,6 +38,6 @@
 
 
 ##
-🕵🏾‍♂️ Esse aqui é o tanto que já entraram no meu perfil :)
+🕵🏾‍♂️ Esse aqui é o tanto de curioso que entraram no meu perfil :)
 
-<img src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
+<img align="center" src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
