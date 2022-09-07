@@ -26,11 +26,12 @@ ________________________________________________________________________________
 🔭 Estou atualmente envolvido em um sistema que procura ajudar crianças com diagnosticadas com TEA (Transtorno do Espectro Autista), na inclusão do seu meio social.
 
 💬 Se quiserem falar comigo, entrem em contato comigo pelas redes sociais disponiveis abaixo:
+                                                                                     
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkaua.vf/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kauazinthebrabo)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/kkaua.vf/)
 ______________________________________________________________________________________________________
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&langs_count=8&theme=synthwave)](https://github.com/DevlTz/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&langs_count=8&theme=synthwave)(https://github.com/DevlTz/github-readme-stats)
 ______________________________________________________________________________________________________
