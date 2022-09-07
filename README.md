@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 💼 Desenvolvedor Front-End e em desenvolvimento no Back-End 
 
-📕 Aprendendo atualmente as linguagens
+                                              📕 Aprendendo atualmente as linguagens:
 
 <div style="display: inline_block> <br/>      
  <img align="center" alt="ht" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>   
