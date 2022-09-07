@@ -22,7 +22,7 @@
 ##
 <div>
     <a href="https://github.com/DevlTz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align = "left" src="https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -33,6 +33,8 @@
   <img align="center" alt="PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="rigth" alt="GIFer" src="https://discord.com/channels/772845095811547148/772845096328364044/1017176258989269063/hi.gif">
+  
 </div>
 
 ##
