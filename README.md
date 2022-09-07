@@ -8,6 +8,7 @@
 
 </div>
 ______________________________________________________________________________________________________
+
 ▷ Como que vocês estão? 😜
 
 ▷ Espero que esteja tudo bem 😄
@@ -30,6 +31,6 @@ ________________________________________________________________________________
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/kkaua.vf/)
 ______________________________________________________________________________________________________
 
-![DevlTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)
-![DevlTz's TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&theme=dracula)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&langs_count=8&theme=synthwave)](https://github.com/DevlTz/github-readme-stats)
 ______________________________________________________________________________________________________
