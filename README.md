@@ -20,10 +20,10 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/kkaua.vf/)
 
 ##
-<div>
-    <a href="https://github.com/DevlTz">
-  <img align="center" height="180em" align = "left" src="https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&langs_count=7&theme=dracula"/>
+ <div align="center">
+  <a href="https://github.com/DevlTz">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=DevlTz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -38,6 +38,6 @@
 
 
 ##
-🕵🏾‍♂️ Esse aqui é o tanto de curioso que entraram no meu perfil :)
+🕵🏾‍♂️ Muito bem! Você agora é oficialmente um dos curiosos que visitaram meu perfil :)
 
 <img align="center" src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
