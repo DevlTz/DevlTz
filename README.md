@@ -5,19 +5,21 @@
 
 ▷ Espero que esteja tudo bem 😄
 
-🧑🏿‍💻 Sou um estudante ativo no IFCE.
+🧑🏿‍💻 Sou um estudante ativo na UFRN.
+🧑🏿‍💻 Sou Técnico em Informática pelo IFCE.
 
-🔭 Atualmente me encontro envolvido em um sistema que procura ajudar crianças com diagnosticadas com TEA (Transtorno do Espectro Autista) na inclusão do seu meio social.
+🔭 Atualmente me encontro estudando Ciências da Computação na UFRN. Em paralelo a isso, almejando conseguir meu primeiro trabalho na área de Cibersegurança!
 
 📕 Aprendendo constatemente a todo momento.
 
 💼 Desenvolvedor Front-End e em desenvolvimento no Back-End.
+💼 RedTeam Pentester.
 
 💬 Se quiserem falar comigo, se sintam a vontade para entrar em contato pelas redes sociais disponiveis abaixo:
                                                                                      
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkaua.vf/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkauavf/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kauazinthebrabo)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/kkaua.vf/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/kauadovale/)
 
 ##
 
