@@ -17,7 +17,7 @@
 
 💼 Desenvolvedor Front-End e em desenvolvimento no Back-End.
 
-💼 RedTeam Pentester e aprendizado BlueTeam.
+💼 RedTeam Pentester e aprendiz BlueTeam.
 
 💬 Se desejar falar comigo, se sinta a vontade para entrar em contato pelas redes sociais disponiveis abaixo:
                                                                                      
