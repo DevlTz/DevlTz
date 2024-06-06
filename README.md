@@ -10,13 +10,14 @@
 🧑🏿‍💻 Sou Técnico em Informática pelo IFCE.
 
 🔭 Atualmente me encontro estudando Ciências da Computação na UFRN. Em paralelo a isso, almejando conseguir meu primeiro trabalho na área de Cibersegurança!
-🔭 Fiz parte da crianção de um sistema que procura ajudar crianças com diagnosticadas com TEA (Transtorno do Espectro Autista) na inclusão do seu meio social.
+
+🔭 Fiz parte da criação de um sistema que procura ajudar crianças com diagnosticadas com TEA (Transtorno do Espectro Autista) na inclusão do seu meio social, o LISI.
 
 📕 Aprendendo constatemente a todo momento.
 
 💼 Desenvolvedor Front-End e em desenvolvimento no Back-End.
 
-💼 RedTeam Pentester.
+💼 RedTeam Pentester e aprendizado BlueTeam.
 
 💬 Se desejar falar comigo, se sinta a vontade para entrar em contato pelas redes sociais disponiveis abaixo:
                                                                                      
