@@ -5,7 +5,7 @@
 
 ▷ Espero que esteja tudo bem 😄
 
-🧑🏿‍💻 Sou um estudante ativo na UFRN.
+🧑🏿‍💻 Sou um estudante ativo na UFRN do BCC.
 
 🧑🏿‍💻 Sou Técnico em Informática pelo IFCE.
 
@@ -22,7 +22,7 @@
                                                                                      
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkauavf/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kauazinthebrabo)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/kauadovale/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://br.linkedin.com/in/kau%25C3%25A3-do-vale-0b626b1ba&ved=2ahUKEwijm8nc-saGAxVzqZUCHfy3IPEQFnoECBYQAQ&usg=AOvVaw2GM4Ri8-zyxP59ajm_2Hr9)
 
 ##
 
