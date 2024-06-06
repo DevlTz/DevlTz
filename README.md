@@ -18,7 +18,7 @@
 
 💼 RedTeam Pentester.
 
-💬 Se quiserem falar comigo, se sintam a vontade para entrar em contato pelas redes sociais disponiveis abaixo:
+💬 Se desejar falar comigo, se sinta a vontade para entrar em contato pelas redes sociais disponiveis abaixo:
                                                                                      
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkauavf/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kauazinthebrabo)
@@ -48,4 +48,4 @@
 ##
 🕵🏾‍♂️ Muito bem! Você agora é oficialmente um dos curiosos que visitaram meu perfil :)
 
-<img align="center" src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
+
