@@ -50,5 +50,5 @@
 
 ##
 🕵🏾‍♂️ Muito bem! Você agora é oficialmente um dos curiosos que visitaram meu perfil :)
-<img align="center" src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" />
+/* <img align="center" src="https://profile-counter.glitch.me/{DevlTz}/count.svg" alt="Kauã :: Visitor's Count" /> */
 
