@@ -6,7 +6,9 @@
 
 🧑🏿‍💻 Técnico em Informática pelo IFCE.
 
-🔭 Atualmente me encontro estudando Ciências da Computação na UFRN. Em paralelo a isso, almejando conseguir meu primeiro trabalho na área de Cibersegurança!
+🔭 Atualmente me encontro estudando Ciências da Computação na UFRN. 
+
+🔭 Em paralelo a isso, faço parte da gerência de redes do IMD (Instituto Metrópole Digital), atuando no NOC e almejando estudar mais para me aprofundar na área de cibersegurança.
 
 🔭 Fiz parte da criação de um sistema que procura ajudar crianças com diagnosticadas com TEA (Transtorno do Espectro Autista) na inclusão do seu meio social, o LISI.
 
