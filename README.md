@@ -22,7 +22,7 @@
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkaua027/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kdoxi_)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://br.linkedin.com/in/kauadovale&ved=2ahUKEwijm8nc-saGAxVzqZUCHfy3IPEQFnoECBEQAQ&usg=AOvVaw01fq3ZvC0h_fB_tIxVrHxB)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kauadovale)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=vscode,obsidian,html,css,js,neovim,github,figma,git" /> <img src="https://skillicons.dev/icons?i=kali,cpp,python,mysql" /><br> <br/> <hr/> <h2 align="center">⚡ Stats ⚡</h2> <br> <div align=center> <img width=370 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DevlTz&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=DevlTz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br/> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DevlTz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
 
