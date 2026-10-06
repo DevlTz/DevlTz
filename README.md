@@ -1,32 +1,75 @@
-<h2 align="center">👋 Hey everyone, My name is Kauã do Vale!</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=228B22&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=hello :); I%27m+Kau%C3%A3+do+Vale;aka+devlTz;Offsec+%26+WebSec+Student;nice+to+meet+you,+strange!" alt="I'm Kauã do Vale / aka DevlTz / Offsec Analyst &amp; Cybersecurity" />
+</div>
 
-▷ How are you all doing? 😜
+### `whoami`
 
-▷ I hope everything is going well 😄
+```bash
+$ cat /etc/passwd | grep devltz
+devltz:x:1000:1000:Kauã do Vale:/home/devltz:/bin/bash
 
-🧑🏿‍💻 Computer Technician from IFCE.
+$ groups
+imd-noc saguisec mais_ou_menos_hackers bugcrowd
+```
 
-🧑🏿‍💻 Currently studying Computer Science at UFRN.
+<p align="left">
+  <img src="https://img.shields.io/badge/Networks-000000?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Networks" />
+  <img src="https://img.shields.io/badge/Web_Security-000000?style=for-the-badge&amp;logo=circuitverse&amp;logoColor=white" alt="Web Security" />
+  <img src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white" alt="Pentesting" />
+</p>
 
-🔭 On the side, I am part of the network management team at IMD (Instituto Metrópole Digital), working in the NOC and aiming to deepen my knowledge in the cybersecurity field.
+### `tree ~/devltz`
 
-🔭 I was part of the creation of a system designed to assist children diagnosed with ASD (Autism Spectrum Disorder) in their social inclusion, called LISI.
+<img width="40%" height="50%" align="right" alt="Jesus" src="assets/jesus.gif" />
 
-📕 Constantly learning all the time.
+```text
+me/
+│
+├── about_me/
+│   ├── computer_science_at_UFRN
+│   ├── computer_technician_at_IFCE
+│   ├── NOC_at_IMD
+│   └── cybersecurity_research_at_Dell
+│
+├── interested_in/
+│   ├── computer_networks
+│   ├── code_vulnerabilities
+│   ├── low_level_programming
+│   ├── web_security
+│   └── pentesting
+│   ├── bug_bounty
+│
+├── knowledge_and_tools_used/
+│   ├── python.py
+│   ├── cpp.cpp
+│   ├── js.js
+│   ├── css.css
+│   ├── html.html
+│   ├── java.java
+│   ├── docker.dockerfile
+│   ├── bash.sh
+│   ├── git.git
+│
+├── projects/
+│   └── LISI
+```
 
-💼 Back-End Developer and Front-End apprentice.
+<br clear="right" />
 
-💼 RedTeam Pentester.
+### `cat contact.txt`
 
-💬 If you'd like to talk, feel free to reach out to me via the social media links below:   
+<div align="left">
+  <a href="https://br.linkedin.com/in/kauadovale">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/kkaua027/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tryhackme.com/p/dovaleee">
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
+  </a>
+</div>
 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkaua027/)
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kdoxi_)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kauadovale)
+---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=vscode,obsidian,html,css,js,neovim,github,figma,git" /> <img src="https://skillicons.dev/icons?i=kali,cpp,python,mysql" /><br> <br/> <hr/> <h2 align="center">⚡ Stats ⚡</h2> <br> <div align=center> <img width=370 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DevlTz&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=DevlTz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br/> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DevlTz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
-
-<br/><br/>
-<img align="right" src="https://i.picasion.com/pic92/d33eae27397fef422c7d3005f7a9fa1d.gif" height="140" alt="https://picasion.com/" /></a> 
-<br/><br/>
-</div> <h2 align="center"> 🕵🏾‍♂️ Very well! You are now officially one of the curious people who visited my profile :) </div> </div></h2>
+<p align="center"><samp>Soli Deo Gloria.</samp></p>
