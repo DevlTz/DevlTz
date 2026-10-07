@@ -68,9 +68,6 @@ me/
   <a href="https://tryhackme.com/p/dovaleee">
     <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
   </a>
-  <a href="https://profile.hackthebox.com/profile/01a11330-7ff5-7254-8440-cfa99a656ecb">
-    <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00" alt="Hack The Box" />
-  </a>
   <a href="https://hackerone.com/requ1em">
     <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&amp;logo=hackerone&amp;logoColor=white" alt="HackerOne" />
   </a>
