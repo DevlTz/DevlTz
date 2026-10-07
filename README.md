@@ -20,7 +20,7 @@ imd-noc saguisec mais_ou_menos_hackers bugcrowd
 
 ### `tree ~/devltz`
 
-<img width="40%" align="right" alt="Jesus" src="assets/jesus.gif" />
+<img width="40%" align="right" alt="Jesus" src="assets/Jesus.gif" />
 
 ```text
 me/
