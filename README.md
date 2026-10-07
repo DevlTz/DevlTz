@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=228B22&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=hello :); I%27m+Kau%C3%A3+do+Vale;aka+devlTz;Offsec+%26+WebSec+Student;nice+to+meet+you,+strange!" alt="I'm Kauã do Vale / aka DevlTz / Offsec Analyst &amp; Cybersecurity" />
+  <img width="680" height="65" src="assets/typing.svg" alt="Hello :) / I'm Kauã do Vale / aka devlTz / Offsec &amp; WebSec Student / Nice to meet you, stranger!" />
 </div>
 
 ### `whoami`
@@ -20,7 +20,7 @@ imd-noc saguisec mais_ou_menos_hackers bugcrowd
 
 ### `tree ~/devltz`
 
-<img width="40%" height="50%" align="right" alt="Jesus" src="assets/jesus.gif" />
+<img width="40%" align="right" alt="Jesus" src="assets/jesus.gif" />
 
 ```text
 me/
@@ -36,8 +36,8 @@ me/
 │   ├── code_vulnerabilities
 │   ├── low_level_programming
 │   ├── web_security
-│   └── pentesting
-│   ├── bug_bounty
+│   ├── pentesting
+│   └── bug_bounty
 │
 ├── knowledge_and_tools_used/
 │   ├── python.py
@@ -48,10 +48,10 @@ me/
 │   ├── java.java
 │   ├── docker.dockerfile
 │   ├── bash.sh
-│   ├── git.git
+│   └── git.git
 │
-├── projects/
-│   └── LISI
+└── projects/
+    └── LISI
 ```
 
 <br clear="right" />
@@ -67,6 +67,12 @@ me/
   </a>
   <a href="https://tryhackme.com/p/dovaleee">
     <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://profile.hackthebox.com/profile/01a11330-7ff5-7254-8440-cfa99a656ecb">
+    <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00" alt="Hack The Box" />
+  </a>
+  <a href="https://hackerone.com/requ1em">
+    <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&amp;logo=hackerone&amp;logoColor=white" alt="HackerOne" />
   </a>
 </div>
 
