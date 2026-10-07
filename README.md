@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="680" height="65" src="assets/typing.svg" alt="Hello :) / I'm Kauã do Vale / aka devlTz / I love to break systems; / nice to meet you, stranger!" />
+  <img width="680" height="65" src="assets/typing.svg" alt="Hello :) / I'm Kauã do Vale / aka devlTz / Offsec &amp; WebSec Student / nice to meet you, stranger!" />
 </div>
 
 ### `whoami`
