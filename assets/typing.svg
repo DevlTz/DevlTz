@@ -21,12 +21,12 @@
                     dur='6000ms' fill='remove'
                     values='m0,32.5 h0 ; m0,32.5 h680 ; m0,32.5 h680 ; m0,32.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#990000' font-size='30'
+    <text font-family='"Fira Code", monospace' fill='#228B22' font-size='30'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            Hello :)
+            Hi there :)
         </textPath>
     </text>
         <path id='path1'>
@@ -35,7 +35,7 @@
                     dur='6000ms' fill='remove'
                     values='m0,32.5 h0 ; m0,32.5 h680 ; m0,32.5 h680 ; m0,32.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#990000' font-size='30'
+    <text font-family='"Fira Code", monospace' fill='#228B22' font-size='30'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
@@ -49,7 +49,7 @@
                     dur='6000ms' fill='remove'
                     values='m0,32.5 h0 ; m0,32.5 h680 ; m0,32.5 h680 ; m0,32.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#990000' font-size='30'
+    <text font-family='"Fira Code", monospace' fill='#228B22' font-size='30'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
@@ -63,7 +63,7 @@
                     dur='6000ms' fill='remove'
                     values='m0,32.5 h0 ; m0,32.5 h680 ; m0,32.5 h680 ; m0,32.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#990000' font-size='30'
+    <text font-family='"Fira Code", monospace' fill='#228B22' font-size='30'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
@@ -77,7 +77,7 @@
                     dur='6000ms' fill='remove'
                     values='m0,32.5 h0 ; m0,32.5 h680 ; m0,32.5 h680 ; m0,32.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#990000' font-size='30'
+    <text font-family='"Fira Code", monospace' fill='#228B22' font-size='30'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
